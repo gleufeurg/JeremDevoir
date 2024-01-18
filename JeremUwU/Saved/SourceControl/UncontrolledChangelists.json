@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/Projectile/BP_Projectile.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/JeremUwU/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+			]
+		}
+	]
+}
